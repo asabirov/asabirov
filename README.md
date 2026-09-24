@@ -8,6 +8,6 @@ Start with the [product](https://lepsto.com/) or explore the [documentation](htt
 
 [ai-slop-detector-skill](https://github.com/asabirov/ai-slop-detector-skill) is an editorial skill with a deterministic linter for text, markup and code comments.
 
-[github-attachments](https://github.com/asabirov/github-attachments) uploads images and PDFs to GitHub issues and pull requests from an agent or the terminal, without committing the files.
+[github-attachments](https://github.com/asabirov/github-attachments-skill) uploads images and PDFs to GitHub issues and pull requests from an agent or the terminal, without committing the files.
 
 I also write about Lepsto on the [Lepsto blog](https://lepsto.com/blog/author/artur).
