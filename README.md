@@ -10,4 +10,4 @@ Start with the [product](https://lepsto.com/) or explore the [documentation](htt
 
 [github-attachments](https://github.com/asabirov/github-attachments) uploads images and PDFs to GitHub issues and pull requests from an agent or the terminal, without committing the files.
 
-I also write about Lepsto and working with coding agents on the [Lepsto blog](https://lepsto.com/blog/author/artur).
+I also write about Lepsto on the [Lepsto blog](https://lepsto.com/blog/author/artur).
