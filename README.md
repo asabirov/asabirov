@@ -10,4 +10,6 @@ Start with the [product](https://lepsto.com/) or explore the [documentation](htt
 
 [github-attachments](https://github.com/asabirov/github-attachments-skill) uploads images and PDFs to GitHub issues and pull requests from an agent or the terminal, without committing the files.
 
+[better-skill-creator](https://github.com/asabirov/better-skill-creator-skill) is an agent skill for creating, editing, simplifying, and auditing skills you own, with consistent rules, SemVer releases, and changelogs.
+
 I also write about Lepsto on the [Lepsto blog](https://lepsto.com/blog/author/artur).
