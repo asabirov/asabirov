@@ -1,15 +1,18 @@
-# Artur Sabirov
+<img src="assets/hero.jpg" width="100%" alt="A call corner in a home office at dusk: a microphone on a boom arm, headphones hanging from it, a small audio interface and a mug of tea on a worn desk.">
 
-I'm building [Lepsto](https://lepsto.com/), a platform that brings hosting, data and product analytics together for solo founders.
+<h3 align="center">Lepsto gives solo founders hosting, app components, analytics, helpdesk, and agent tools to get products to customers faster.</h3>
 
-Start with the [product](https://lepsto.com/) or explore the [documentation](https://docs.lepsto.com/).
+<p align="center"><a href="https://lepsto.com/">lepsto.com</a> · <a href="https://docs.lepsto.com/">docs.lepsto.com</a></p>
 
-## Public work
+<br>
 
-[ai-slop-detector-skill](https://github.com/asabirov/ai-slop-detector-skill) is an editorial skill with a deterministic linter for text, markup and code comments.
+I'm acting CEO of Apliteni and build Lepsto and many other cool things.
 
-[github-attachments](https://github.com/asabirov/github-attachments-skill) uploads images and PDFs to GitHub issues and pull requests from an agent or the terminal, without committing the files.
+<p>
+<a href="https://lepsto.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-lepsto-dark.svg"><img src="assets/tile-lepsto-light.svg" width="49%" alt="Lepsto (product): hosting, app components, analytics, helpdesk and agent tools."></picture></a>
+<a href="https://github.com/asabirov/ai-slop-detector-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-slop-dark.svg"><img src="assets/tile-slop-light.svg" width="49%" alt="ai-slop-detector: reviews prose, interfaces and code comments for empty claims and clutter."></picture></a>
+<a href="https://github.com/asabirov/github-attachments-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-attach-dark.svg"><img src="assets/tile-attach-light.svg" width="49%" alt="github-attachments: uploads a local image to GitHub and returns a link, without committing the file."></picture></a>
+<a href="https://github.com/asabirov/better-skill-creator-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-skills-dark.svg"><img src="assets/tile-skills-light.svg" width="49%" alt="better-skill-creator: creates and maintains your own agent skills, checks them through real use."></picture></a>
+</p>
 
-[better-skill-creator](https://github.com/asabirov/better-skill-creator-skill) is an agent skill for creating, editing, simplifying, and auditing skills you own, with consistent rules, SemVer releases, and changelogs.
-
-I also write about Lepsto on the [Lepsto blog](https://lepsto.com/blog/author/artur).
+Reach me on [LinkedIn](https://www.linkedin.com/in/asabirov/) or [X](https://x.com/artsabirov) if you want to talk.
