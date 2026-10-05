@@ -12,6 +12,9 @@ I made these from coding-agent work; install and use them, and send issues or pu
 <a href="https://github.com/asabirov/better-skill-creator-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-skills-dark.svg"><img src="assets/tile-skills-light.svg" width="49%" alt="better-skill-creator: creates and maintains your own agent skills, checks them through real use."></picture></a>
 </p>
 
+- [mermaid-diagrams](https://github.com/asabirov/mermaid-diagrams-skill): picks a diagram type, renders it in light and dark themes and checks the images.
+- [everything-to-pdf](https://github.com/asabirov/everything-to-pdf): converts Markdown, text, code, images, local HTML or a web page to PDF.
+
 ## My work
 
 - [Lepsto](https://lepsto.com/): hosting, app components, analytics, helpdesk, and agent tools for solo founders.
