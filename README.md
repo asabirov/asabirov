@@ -14,8 +14,9 @@ I made these from coding-agent work. Install and use them, and send issues or pu
 - [ai-slop-detector](https://github.com/asabirov/ai-slop-detector-skill): reviews prose, interfaces and code comments for empty claims and clutter.
 - [github-attachments](https://github.com/asabirov/github-attachments-skill): uploads a local image to GitHub and returns a link, without committing the file.
 - [better-skill-creator](https://github.com/asabirov/better-skill-creator-skill): creates and maintains your own agent skills, checks them through real use.
-- [mermaid-diagrams](https://github.com/asabirov/mermaid-diagrams-skill): picks a diagram type, renders it in light and dark themes and checks the images.
-- [everything-to-pdf](https://github.com/asabirov/everything-to-pdf): converts Markdown, text, code, images, local HTML or a web page to PDF.
+- [diagrams](https://github.com/asabirov/diagrams-skill): picks a diagram type, draws it in D2 in a hand-drawn style and checks the picture.
+- [everything-to-pdf](https://github.com/asabirov/anything-to-pdf-skill): converts Markdown, text, code, images, local HTML or a web page to PDF.
+- [security-risk](https://github.com/asabirov/security-risk-skill): reviews a written design for security risk, and assesses only a target that you authorized.
 - [code-smells](https://github.com/asabirov/code-smells-skill): fails the check when a Go or TypeScript function, file or package grows past its recorded limit. A check costs about 30 to 80 tokens.
 - [anki-cli](https://github.com/asabirov/anki-cli): reads, searches and exports Anki Notes flashcards from the terminal.
 
