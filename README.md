@@ -18,6 +18,5 @@ I made these from coding-agent work. Install and use them, and send issues or pu
 - [everything-to-pdf](https://github.com/asabirov/anything-to-pdf-skill): converts Markdown, text, code, images, local HTML or a web page to PDF.
 - [security-risk](https://github.com/asabirov/security-risk-skill): reviews a written design for security risk, and assesses only a target that you authorized.
 - [code-smells](https://github.com/asabirov/code-smells-skill): fails the check when a Go or TypeScript function, file or package grows past its recorded limit. A check costs about 30 to 80 tokens.
-- [anki-cli](https://github.com/asabirov/anki-cli): reads, searches and exports Anki Notes flashcards from the terminal.
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/asabirov/) or [X](https://x.com/artsabirov) if you want to talk.
